@@ -29,7 +29,7 @@ export function ExpandableTable({
     <section
       className={[
         "overflow-hidden rounded-2xl",
-        "border border-slate-200 bg-white shadow-sm",
+        "border border-slate-200 bg-white shadow-xs",
         className,
       ].join(" ")}
     >
